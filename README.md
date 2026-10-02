@@ -1,6 +1,6 @@
 <div align="center">
 
-# Delta Force Cheat
+# Delta Force Cheat.
 
 > **Modular instrumentation framework for studying real-time memory behavior in Delta Force.**
 
